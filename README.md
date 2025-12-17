@@ -53,3 +53,18 @@ af.amir.cryptotracker
 │   ├── data           # DTOs, Mappers & Repository implementations
 │   ├── domain         # Use cases, Repository interfaces & Business models
 │   └── presentation   # MVI logic (ViewModels, States, Actions) & Compose UI
+```
+
+
+## 🛠️ Setup & Installation
+
+Follow these steps to get the project up and running on your local machine:
+
+### 1. Prerequisites
+* **Android Studio Ladybug** (or newer)
+* **JDK 17** or higher
+* **Kotlin 1.9.x**
+
+### 2. Clone the Repository
+```bash
+git clone https://github.com/amirr-sharifi/CryptoTracker-JetpackCompose.git
